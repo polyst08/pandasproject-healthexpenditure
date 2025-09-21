@@ -1,2 +1,1 @@
-# csv-data-project
-Pandas project for health and pharmaceutical expenditure
+# Global Health & Pharmaceutical Spending: Aging, Disease Burden, and Investment Insight
