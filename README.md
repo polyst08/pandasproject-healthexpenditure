@@ -56,7 +56,9 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 ---
 ## 2. Aging Society & Life Expentancy
-
+- 📊 **Out-of-pocket Percentage of Total Health Expenditure by Income Group **
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.4.png?raw=true" width="900" />
+Figure 1.4: 
 
 ---
 ## 3. OECD Focus: Pharmaceutical Spending
