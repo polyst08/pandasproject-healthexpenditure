@@ -29,7 +29,9 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 - 🌍 **Global Health Expenditure (% of GDP)**  
 
-![Figure 1](path/to/figure1.png)  
+![Figure 1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.1.png)
+
+![Figure 1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.1_Table.png)
 
 *Figure 1: Regional differences in health expenditure, showing high spending in North America and Europe, and low spending in parts of Africa and South Asia.*
 
