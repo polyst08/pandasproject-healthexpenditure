@@ -5,6 +5,12 @@ This project analyzes global health and pharmaceutical spending (2010–2022) in
 
 ---
 
+## Data Sources:
+1. https://databank.worldbank.org/reports.aspx?source=2&country=WLD#
+2. https://www.oecd.org/en/data/datasets.html?orderBy=mostRelevant&page=0&q=drug
+
+---
+
 ## Table of Contents:
 1. [Global Health Investment Landscape](#global-health-investment-landscape)
 2.
@@ -117,9 +123,3 @@ After examining global disease burden and regional disparities, the next step is
 - Low- and middle-income countries: Target investment to reduce high disease burden efficiently.  
 - OECD/high-income countries: Manage aging-related pressures and rising pharmaceutical costs with sustainable policies (e.g., drug pricing, reimbursement strategies).  
 - Global perspective: Allocate resources based on disease burden composition and demographic context to maximize impact and efficiency.
-
----
-
-## Reference:
-1. https://databank.worldbank.org/reports.aspx?source=2&country=WLD#
-2. https://www.oecd.org/en/data/datasets.html?orderBy=mostRelevant&page=0&q=drug
