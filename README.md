@@ -1,5 +1,7 @@
 # 🌍 Global Health & Pharmaceutical Spending: Aging, Disease Burden, and Investment Insights
 
+**DADS5001: Presented by Sumonsiri (6720422007) and ... (67204220..)**
+
 **Purpose:**  
 This project analyzes global health and pharmaceutical spending (2010–2022) in the context of aging populations, disease burden (DALYs), and health outcomes (Life Expectancy). The goal is to identify trends and inform evidence-based policy insights.
 
