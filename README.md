@@ -62,9 +62,9 @@ Understanding global disease burden patterns helps contextualize health spending
 
 - 📊 **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
 
-![Figure 4.1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png)  
+![Figure 1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png)  
 
-*Figure 1: Stacked area chart showing the proportion of DALYs for CMNN, Injuries, NCDs, and COVID-related outcomes from 2010–2021, overlaid with trend lines to highlight temporal changes. CMNN burden decreases in high-income countries but remains high in LMICs; NCDs show a steady increase globally; Injuries remain relatively stable; COVID-related outcomes show a clear spike in 2020–2021.*
+*Figure 4.1: Stacked area chart showing the proportion of DALYs for CMNN, Injuries, NCDs, and COVID-related outcomes from 2010–2021, overlaid with trend lines to highlight temporal changes. CMNN burden decreases in high-income countries but remains high in LMICs; NCDs show a steady increase globally; Injuries remain relatively stable; COVID-related outcomes show a clear spike in 2020–2021.*
 
 - 🌍 **DALYs per 100,000 Population by Disease Category (Year 2021)**  
 
@@ -88,21 +88,21 @@ After examining global disease burden and regional disparities, the next step is
 
 - 📉 **Global Regression: DALYs vs Health Expenditure per Capita (Year 2010–2021)**  
 
-![Figure 5.1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.1.png) 
+![Figure 1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.1.png) 
 
-*Figure 1: Scatter plot with regression lines showing the relationship between DALYs and health expenditure per capita across countries. Low-income countries experience high disease burden with limited spending, whereas high-income countries show lower DALYs with higher expenditure. Separate trend lines illustrate differences in responsiveness across income groups.*
+*Figure 5.1: Scatter plot with regression lines showing the relationship between DALYs and health expenditure per capita across countries. Low-income countries experience high disease burden with limited spending, whereas high-income countries show lower DALYs with higher expenditure. Separate trend lines illustrate differences in responsiveness across income groups.*
 
 - 📈 **DALYs & Health Expenditure Trend per Income Group (Year 2010–2021)**  
 
-![Figure 5.2](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.2.png)  
+![Figure 2](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.2.png)  
 
-*Figure 2: Trends of DALYs (left) and health expenditure per capita (right) from 2010–2021, shown as separate graphs by income group. The visualization highlights how disease burden and spending evolve differently over time across income levels, reflecting differences in effectiveness and resource allocation.*
+*Figure 5.2: Trends of DALYs (left) and health expenditure per capita (right) from 2010–2021, shown as separate graphs by income group. The visualization highlights how disease burden and spending evolve differently over time across income levels, reflecting differences in effectiveness and resource allocation.*
 
 - 📊 **OECD: NCD DALYs vs Pharmaceutical Expenditure with Aging Impact (Year 2010–2021)**  
 
-![Figure 5.3](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.3.png)  
+![Figure 3](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.3.png)  
 
-*Figure 3: Bubble chart + line overlay for OECD countries. Bubble size and color represent %65+ population. Pharmaceutical expenditure rises with aging, while NCD DALYs trend over time, illustrating the “double pressure” of aging populations and rising drug costs.*
+*Figure 5.3: Bubble chart + line overlay for OECD countries. Bubble size and color represent %65+ population. Pharmaceutical expenditure rises with aging, while NCD DALYs trend over time, illustrating the “double pressure” of aging populations and rising drug costs.*
 
 **Key Insights**  
 1. Global Inequities: Low-income countries face high DALYs but limited health expenditure, highlighting gaps in access and resource allocation.  
