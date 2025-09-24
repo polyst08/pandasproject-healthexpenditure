@@ -33,19 +33,19 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 ![Figure 1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.1_Table.png)
 
-*Figure 1: Regional differences in health expenditure, showing high spending in North America and Europe, and low spending in parts of Africa and South Asia.*
+*Figure 1.1: Regional differences in health expenditure, showing high spending in North America and Europe, and low spending in parts of Africa and South Asia.*
 
 - 📈 **Health Expenditure per Capita & % of GDP by Income Group (Year 2010–2022)**  
 
 ![Figure 2](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.2.png)  
 
-*Figure 2: Health expenditure trends over time, showing both per capita spending and spending relative to GDP. High-income countries consistently allocate more resources and a larger share of GDP to health than lower-income groups, while low-income countries lag behind.*
+*Figure 1.2: Health expenditure trends over time, showing both per capita spending and spending relative to GDP. High-income countries consistently allocate more resources and a larger share of GDP to health than lower-income groups, while low-income countries lag behind.*
 
 - 📊 **Distribution of Health Expenditure % of GDP Across Income Groups**  
 
 ![Figure 3](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.3.png)  
 
-*Figure 3: Variability within income groups is evident; some upper-middle-income countries outperform peers, while low-income countries show limited investment in health services.*
+*Figure 1.3: Variability within income groups is evident; some upper-middle-income countries outperform peers, while low-income countries show limited investment in health services.*
 
 **Key Insights**  
 1. Investment Gap: High-income countries consistently spend more, both per capita and as % of GDP.  
@@ -62,7 +62,7 @@ Understanding global disease burden patterns helps contextualize health spending
 
 - 📊 **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
 
-![Figure 1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png)  
+![Figure 4.1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png)  
 
 *Figure 1: Stacked area chart showing the proportion of DALYs for CMNN, Injuries, NCDs, and COVID-related outcomes from 2010–2021, overlaid with trend lines to highlight temporal changes. CMNN burden decreases in high-income countries but remains high in LMICs; NCDs show a steady increase globally; Injuries remain relatively stable; COVID-related outcomes show a clear spike in 2020–2021.*
 
@@ -70,7 +70,7 @@ Understanding global disease burden patterns helps contextualize health spending
 
 ![Figure 2](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.2.png) 
 
-*Figure 2: Regional disparities highlight how different categories dominate in various contexts. Africa shows high CMNN burden, high-income regions are dominated by NCDs, and injuries/COVID impact varies across regions.*
+*Figure 4.2: Regional disparities highlight how different categories dominate in various contexts. Africa shows high CMNN burden, high-income regions are dominated by NCDs, and injuries/COVID impact varies across regions.*
 
 **Key Insights**  
 1. Epidemiological Transition: High-income countries increasingly face NCDs, while LMICs continue to struggle with CMNN diseases.  
@@ -88,19 +88,19 @@ After examining global disease burden and regional disparities, the next step is
 
 - 📉 **Global Regression: DALYs vs Health Expenditure per Capita (Year 2010–2021)**  
 
-![Figure 1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.1.png) 
+![Figure 5.1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.1.png) 
 
 *Figure 1: Scatter plot with regression lines showing the relationship between DALYs and health expenditure per capita across countries. Low-income countries experience high disease burden with limited spending, whereas high-income countries show lower DALYs with higher expenditure. Separate trend lines illustrate differences in responsiveness across income groups.*
 
 - 📈 **DALYs & Health Expenditure Trend per Income Group (Year 2010–2021)**  
 
-![Figure 2](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.2.png)  
+![Figure 5.2](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.2.png)  
 
 *Figure 2: Trends of DALYs (left) and health expenditure per capita (right) from 2010–2021, shown as separate graphs by income group. The visualization highlights how disease burden and spending evolve differently over time across income levels, reflecting differences in effectiveness and resource allocation.*
 
 - 📊 **OECD: NCD DALYs vs Pharmaceutical Expenditure with Aging Impact (Year 2010–2021)**  
 
-![Figure 3](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.3.png)  
+![Figure 5.3](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.3.png)  
 
 *Figure 3: Bubble chart + line overlay for OECD countries. Bubble size and color represent %65+ population. Pharmaceutical expenditure rises with aging, while NCD DALYs trend over time, illustrating the “double pressure” of aging populations and rising drug costs.*
 
