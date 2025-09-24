@@ -6,18 +6,18 @@ This project analyzes global health and pharmaceutical spending (2010–2022) in
 ---
 
 ## Data Sources:
-1. https://databank.worldbank.org/reports.aspx?source=2&country=WLD#
-2. https://www.oecd.org/en/data/datasets.html?orderBy=mostRelevant&page=0&q=drug
+1. World Bank Data: https://databank.worldbank.org/reports.aspx?source=2&country=WLD#
+2. OECD Data: https://www.oecd.org/en/data/datasets.html?orderBy=mostRelevant&page=0&q=drug
 
 ---
 
 ## Table of Contents:
-1. [Global Health Spending Landscape](#global-health-investment-landscape)
+1. [Global Health Spending Landscape](#1-global-health-spending-landscape)
 2.
 3.
-4. [Global Disease Burden Trends (GBD)](#global-disease-burden-trends-gbd)
-5. [Linking Disease Burden to Spending](#linking-disease-burden-to-spending)
-6. [Conclusion & Policy Implications](#conclusion--policy-implications)
+4. [Global Disease Burden Trends (GBD)](#4-global-disease-burden-trends-gbd)
+5. [Linking Disease Burden to Spending](#5-linking-disease-burden-to-spending)
+6. [Conclusion & Policy Implications](#6-conclusion--policy-implications)
 
 ---
 
