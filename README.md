@@ -37,13 +37,13 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 - 📈 **Health expenditure per capita & % of GDP by income group (2010–2022)**  
 
-![Figure 2](path/to/figure2.png)  
+![Figure 2](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.2.png)  
 
 *Figure 2: Health expenditure trends over time, showing both per capita spending and spending relative to GDP. High-income countries consistently allocate more resources and a larger share of GDP to health than lower-income groups, while low-income countries lag behind.*
 
 - 📊 **Distribution of health expenditure (% of GDP) across income groups**  
 
-![Figure 3](path/to/figure3.png)  
+![Figure 3](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.3.png)  
 
 *Figure 3: Variability within income groups is evident; some upper-middle-income countries outperform peers, while low-income countries show limited investment in health services.*
 
@@ -62,13 +62,13 @@ Understanding global disease burden patterns helps contextualize health spending
 
 - 📊 **% of DALYs by disease category in each income group (Year 2010–2021)**  
 
-![Figure 1](path/to/figure1_gbd.png)  
+![Figure 1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png)  
 
 *Figure 1: Stacked area chart showing the proportion of DALYs for CMNN, Injuries, NCDs, and COVID-related outcomes from 2010–2021, overlaid with trend lines to highlight temporal changes. CMNN burden decreases in high-income countries but remains high in LMICs; NCDs show a steady increase globally; Injuries remain relatively stable; COVID-related outcomes show a clear spike in 2020–2021.*
 
 - 🌍 **DALYs per 100,000 population by disease category Year 2021**  
 
-![Figure 2](path/to/figure2_gbd.png)  
+![Figure 2](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.2.png) 
 
 *Figure 2: Regional disparities highlight how different categories dominate in various contexts. Africa shows high CMNN burden, high-income regions are dominated by NCDs, and injuries/COVID impact varies across regions.*
 
@@ -88,19 +88,19 @@ After examining global disease burden and regional disparities, the next step is
 
 - 📉 **Global Regression: DALYs vs Health Expenditure per Capita (Year 2010–2021)**  
 
-![Figure 1](path/to/figure1_linking.png)  
+![Figure 1](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.1.png) 
 
 *Figure 1: Scatter plot with regression lines showing the relationship between DALYs and health expenditure per capita across countries. Low-income countries experience high disease burden with limited spending, whereas high-income countries show lower DALYs with higher expenditure. Separate trend lines illustrate differences in responsiveness across income groups.*
 
 - 📈 **DALYs & Health Expenditure Trend per Income Group (Year 2010–2021)**  
 
-![Figure 2](path/to/figure2_linking.png)  
+![Figure 2](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.2.png)  
 
 *Figure 2: Trends of DALYs (left) and health expenditure per capita (right) from 2010–2021, shown as separate graphs by income group. The visualization highlights how disease burden and spending evolve differently over time across income levels, reflecting differences in effectiveness and resource allocation.*
 
 - 📊 **OECD: NCD DALYs vs Pharmaceutical Expenditure with Aging Impact (Year 2010–2021)**  
 
-![Figure 3](path/to/figure3_linking.png)  
+![Figure 3](https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.3.png)  
 
 *Figure 3: Bubble chart + line overlay for OECD countries. Bubble size and color represent %65+ population. Pharmaceutical expenditure rises with aging, while NCD DALYs trend over time, illustrating the “double pressure” of aging populations and rising drug costs.*
 
