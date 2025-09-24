@@ -12,7 +12,7 @@ This project analyzes global health and pharmaceutical spending (2010–2022) in
 ---
 
 ## Table of Contents:
-1. [Global Health Investment Landscape](#global-health-investment-landscape)
+1. [Global Health Spending Landscape](#global-health-investment-landscape)
 2.
 3.
 4. [Global Disease Burden Trends (GBD)](#global-disease-burden-trends-gbd)
@@ -21,7 +21,7 @@ This project analyzes global health and pharmaceutical spending (2010–2022) in
 
 ---
 
-## 1. Global Health Investment Landscape
+## 1. Global Health Spending Landscape
 
 Health investment is a key driver of health outcomes worldwide. This section highlights global health expenditure patterns, temporal trends, and disparities across income groups.  
 
