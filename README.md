@@ -47,6 +47,25 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 *Figure 1.3: Variability within income groups is evident; some upper-middle-income countries outperform peers, while low-income countries show limited investment in health services.*
 
+- 📊 **1.4**
+
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.4.png?raw=true" width="900" />
+
+*Figure 1.4: ...*
+
+- 📊 **1.5**
+
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.5.png?raw=true" width="900" />
+
+*Figure 1.5: ...*
+
+- 📊 **1.6**
+
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.6.png?raw=true" width="900" />
+
+*Figure 1.6: ...*
+
+---
 **Key Insights**  
 1. Investment Gap: High-income countries consistently spend more, both per capita and as % of GDP.  
 2. Financial Burden: Out-of-pocket expenses remain a major barrier in low- and lower-middle-income countries.  
@@ -56,12 +75,47 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 ---
 ## 2. Aging Society & Life Expentancy
-- 📊 **Out-of-pocket Percentage of Total Health Expenditure by Income Group**
-<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.4.png?raw=true" width="900" />
-*Figure 1.4: *
+
+xx
+
+- 📊 **2.1**
+
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.1.png?raw=true" width="900" />
+
+*Figure 2.1: ...*
+
+- 📊 **2.2**
+
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.2.png?raw=true" width="900" />
+
+*Figure 2.2: ...*
+
+- 📊 **2.3**
+
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.3.png?raw=true" width="900" />
+
+*Figure 2.3: ...*
 
 ---
 ## 3. OECD Focus: Pharmaceutical Spending
+
+- 📊 **3.1**
+
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.1.png?raw=true" width="900" />
+
+*Figure 3.1: ...*
+
+- 📊 **3.2**
+
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.2.png?raw=true" width="900" />
+
+*Figure 3.2: ...*
+
+- 📊 **3.2**
+
+<img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
+
+*Figure 3.3: ...*
 
 
 ---
