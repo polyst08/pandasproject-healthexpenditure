@@ -10,6 +10,7 @@ This project analyzes global health and pharmaceutical spending (2010–2022) in
 ## Data Sources:
 1. World Bank Data: https://databank.worldbank.org/reports.aspx?source=2&country=WLD#
 2. OECD Data: https://www.oecd.org/en/data/datasets.html?orderBy=mostRelevant&page=0&q=drug
+3. Institute For Health Metrics and Evaluation: https://vizhub.healthdata.org/gbd-results/
 
 ---
 
