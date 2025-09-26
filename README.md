@@ -16,7 +16,7 @@ This project analyzes global health and pharmaceutical spending (2010–2022) in
 
 ## Table of Contents:
 1. [Global Health Spending Landscape](#1-global-health-spending-landscape)
-2. [Aging Society & Life Expentancy](#2-aging-society-life-expentancy)
+2. [Aging Society and Life Expentancy](#2-aging-society-and-life-expentancy)
 3. [OECD Focus: Pharmaceutical Spending](#3-oecd-focus-pharmaceutical-spending)
 4. [Global Disease Burden Trends (GBD)](#4-global-disease-burden-trends-gbd)
 5. [Linking Disease Burden to Spending](#5-linking-disease-burden-to-spending)
@@ -76,7 +76,7 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 ---
 
-## 2. Aging Society & Life Expentancy
+## 2. Aging Society and Life Expentancy
 
 xx To understand the link between population aging and health investment, in this section we will first analyze the temporal trends of global longevity and population aging. We will specifically compare OECD countries, which feature a higher percentage of older adults (aged 65+), against non-OECD nations. Subsequently, we will investigate how these aging societies affect health expenditure per capita.
 
