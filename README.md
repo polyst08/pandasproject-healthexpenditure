@@ -28,7 +28,7 @@ This project analyzes global health and pharmaceutical spending (2010–2022) in
 
 Health investment is a key driver of health outcomes worldwide. This section highlights global health expenditure patterns, temporal trends, and disparities across income groups.  
 
-- 🌍 **Global Health Expenditure % of GDP (Year 2022)**  
+- **Global Health Expenditure % of GDP (Year 2022)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.1.png?raw=true" width="900" />
 
@@ -36,31 +36,31 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 *Figure 1.1: Regional differences in health expenditure, showing high spending in North America and Europe, and low spending in parts of Africa and South Asia.*
 
-- 📈 **Health Expenditure per Capita & % of GDP by Income Group (Year 2010–2022)**  
+- **Health Expenditure per Capita & % of GDP by Income Group (Year 2010–2022)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.2.png?raw=true" width="900" /> 
 
 *Figure 1.2: Health expenditure trends over time, showing both per capita spending and spending relative to GDP. High-income countries consistently allocate more resources and a larger share of GDP to health than lower-income groups, while low-income countries lag behind.*
 
-- 📊 **Distribution of Health Expenditure % of GDP Across Income Groups**  
+- **Distribution of Health Expenditure % of GDP Across Income Groups**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.3.png?raw=true" width="900" /> 
 
 *Figure 1.3: Variability within income groups is evident; some upper-middle-income countries outperform peers, while low-income countries show limited investment in health services.*
 
-- 📊 **Avg. Out-of-pocket Share of Health Expenditure, by Income Group (%)(2022)**
+- **Avg. Out-of-pocket Share of Health Expenditure, by Income Group (%)(2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.4.png?raw=true" width="900" />
 
 *Figure 1.4: the average out-of-pocket share of health expenditure decreases as the income level of countries increases. Low-income countries have the highest average out-of-pocket share, while high-income countries have the lowest.*
 
-- 📊 **Distribution of Out-of-pocket Share of Health Expenditure, by Income Group (%) (2022)**
+- **Distribution of Out-of-pocket Share of Health Expenditure, by Income Group (%) (2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.5.png?raw=true" width="900" />
 
 *Figure 1.5: The box plot illustrates the distribution of out-of-pocket health expenditure as a percentage of total health expenditure across different income groups in 2022. It reveals that lower-income groups not only have higher average out-of-pocket percentages but also show a wider spread and more outliers with very high percentages, indicating greater variability and potentially more extreme financial burdens on individuals in these countries compared to higher-income groups.*
 
-- 📊 **Composition of Health Expenditure, by Income Group (2010-2022)**
+- **Composition of Health Expenditure, by Income Group (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.6.png?raw=true" width="900" />
 
@@ -80,19 +80,19 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 xx To understand the link between population aging and health investment, in this section we will first analyze the temporal trends of global longevity and population aging. We will specifically compare OECD countries, which feature a higher percentage of older adults (aged 65+), against non-OECD nations. Subsequently, we will investigate how these aging societies affect health expenditure per capita.
 
-- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.1.png?raw=true" width="900" />
 
 *Figure 2.1: From 2010 to 2022, the plot reveals a clear upward trend in both the percentage of the population aged 65 and above and life expectancy at birth, suggesting a general increase in population aging and longevity across the countries included in the analysis.*
 
-- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.2.png?raw=true" width="900" />
 
 *Figure 2.2: Both the percentage of the population aged 65+ and life expectancy at birth were consistently higher in OECD countries. Though both groups trended upward, the disparity with Non-OECD countries persisted*
 
-- 📊 **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
+- **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.3.png?raw=true" width="900" />
 
@@ -109,19 +109,19 @@ xx To understand the link between population aging and health investment, in thi
 
 ## 3. OECD Focus: Pharmaceutical Spending
 
-- 📊 **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
+- **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.1.png?raw=true" width="900" />
 
 *Figure 3.1: Pharmaceutical expenditure per capita rose along with the percentage of the population aged 65 and above, suggesting a potential relationship between these two trends.*
 
-- 📊 **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
+- **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.2.png?raw=true" width="900" />
 
 *Figure 3.2: ...*
 
-- 📊 **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
+- **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
 
@@ -132,13 +132,13 @@ xx To understand the link between population aging and health investment, in thi
 
 Understanding global disease burden patterns helps contextualize health spending priorities. This section examines DALYs trends across four major categories, highlighting temporal changes and regional disparities.
 
-- 📊 **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
+- **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png?raw=true" width="900" />
 
 *Figure 4.1: Stacked area chart showing the proportion of DALYs for CMNN, Injuries, NCDs, and COVID-related outcomes from 2010–2021, overlaid with trend lines to highlight temporal changes. CMNN burden decreases in high-income countries but remains high in LMICs; NCDs show a steady increase globally; Injuries remain relatively stable; COVID-related outcomes show a clear spike in 2020–2021.*
 
-- 🌍 **DALYs per 100,000 Population by Disease Category (Year 2021)**  
+- **DALYs per 100,000 Population by Disease Category (Year 2021)**  
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.2.png?raw=true" width="900" />
 
 *Figure 4.2: Regional disparities highlight how different categories dominate in various contexts. Africa shows high CMNN burden, high-income regions are dominated by NCDs, and injuries/COVID impact varies across regions.*
@@ -157,19 +157,19 @@ Understanding global disease burden patterns helps contextualize health spending
 
 After examining global disease burden and regional disparities, the next step is to see how countries respond through health spending. This section explores total health expenditure globally, trends over time by income group, and pharmaceutical spending in OECD countries, linking disease burden to financial investment.
 
-- 📉 **Global Regression: DALYs vs Health Expenditure per Capita (Year 2010–2021)**  
+- **Global Regression: DALYs vs Health Expenditure per Capita (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.1.png?raw=true" width="900" />
 
 *Figure 5.1: Scatter plot with regression lines showing the relationship between DALYs and health expenditure per capita across countries. Low-income countries experience high disease burden with limited spending, whereas high-income countries show lower DALYs with higher expenditure. Separate trend lines illustrate differences in responsiveness across income groups.*
 
-- 📈 **DALYs & Health Expenditure Trend per Income Group (Year 2010–2021)**  
+- **DALYs & Health Expenditure Trend per Income Group (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.2.png?raw=true" width="900" />
 
 *Figure 5.2: Trends of DALYs (left) and health expenditure per capita (right) from 2010–2021, shown as separate graphs by income group. The visualization highlights how disease burden and spending evolve differently over time across income levels, reflecting differences in effectiveness and resource allocation.*
 
-- 📊 **OECD: NCD DALYs vs Pharmaceutical Expenditure with Aging Impact (Year 2010–2021)**  
+- **OECD: NCD DALYs vs Pharmaceutical Expenditure with Aging Impact (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.3.png?raw=true" width="900" />
 
@@ -202,19 +202,19 @@ After examining global disease burden and regional disparities, the next step is
 
 xx
 
-- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.1.png?raw=true" width="900" />
 
 *Figure 2.1: From 2010 to 2022, the plot reveals a clear upward trend in both the percentage of the population aged 65 and above and life expectancy at birth, suggesting a general increase in population aging and longevity across the countries included in the analysis.*
 
-- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.2.png?raw=true" width="900" />
 
 *Figure 2.2: Over the 2010–2022 period, both the percentage of the population aged 65+ and life expectancy at birth were consistently higher in OECD countries. Though both groups trended upward, the disparity with Non-OECD countries persisted*
 
-- 📊 **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
+- **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.3.png?raw=true" width="900" />
 
@@ -223,19 +223,19 @@ xx
 ---
 ## 3. OECD Focus: Pharmaceutical Spending
 
-- 📊 **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
+- **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.1.png?raw=true" width="900" />
 
 *Figure 3.1: ...*
 
-- 📊 **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
+- **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.2.png?raw=true" width="900" />
 
 *Figure 3.2: ...*
 
-- 📊 **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
+- **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
 
@@ -247,13 +247,13 @@ xx
 
 Understanding global disease burden patterns helps contextualize health spending priorities. This section examines DALYs trends across four major categories, highlighting temporal changes and regional disparities.
 
-- 📊 **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
+- **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png?raw=true" width="900" />
 
 *Figure 4.1: Stacked area chart showing the proportion of DALYs for CMNN, Injuries, NCDs, and COVID-related outcomes from 2010–2021, overlaid with trend lines to highlight temporal changes. CMNN burden decreases in high-income countries but remains high in LMICs; NCDs show a steady increase globally; Injuries remain relatively stable; COVID-related outcomes show a clear spike in 2020–2021.*
 
-- 🌍 **DALYs per 100,000 Population by Disease Category (Year 2021)**  
+- **DALYs per 100,000 Population by Disease Category (Year 2021)**  
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.2.png?raw=true" width="900" />
 
 *Figure 4.2: Regional disparities highlight how different categories dominate in various contexts. Africa shows high CMNN burden, high-income regions are dominated by NCDs, and injuries/COVID impact varies across regions.*
@@ -272,19 +272,19 @@ Understanding global disease burden patterns helps contextualize health spending
 
 After examining global disease burden and regional disparities, the next step is to see how countries respond through health spending. This section explores total health expenditure globally, trends over time by income group, and pharmaceutical spending in OECD countries, linking disease burden to financial investment.
 
-- 📉 **Global Regression: DALYs vs Health Expenditure per Capita (Year 2010–2021)**  
+- **Global Regression: DALYs vs Health Expenditure per Capita (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.1.png?raw=true" width="900" />
 
 *Figure 5.1: Scatter plot with regression lines showing the relationship between DALYs and health expenditure per capita across countries. Low-income countries experience high disease burden with limited spending, whereas high-income countries show lower DALYs with higher expenditure. Separate trend lines illustrate differences in responsiveness across income groups.*
 
-- 📈 **DALYs & Health Expenditure Trend per Income Group (Year 2010–2021)**  
+- **DALYs & Health Expenditure Trend per Income Group (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.2.png?raw=true" width="900" />
 
 *Figure 5.2: Trends of DALYs (left) and health expenditure per capita (right) from 2010–2021, shown as separate graphs by income group. The visualization highlights how disease burden and spending evolve differently over time across income levels, reflecting differences in effectiveness and resource allocation.*
 
-- 📊 **OECD: NCD DALYs vs Pharmaceutical Expenditure with Aging Impact (Year 2010–2021)**  
+- **OECD: NCD DALYs vs Pharmaceutical Expenditure with Aging Impact (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.3.png?raw=true" width="900" />
 
@@ -317,19 +317,19 @@ After examining global disease burden and regional disparities, the next step is
 
 xx
 
-- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.1.png?raw=true" width="900" />
 
 *Figure 2.1: From 2010 to 2022, the plot reveals a clear upward trend in both the percentage of the population aged 65 and above and life expectancy at birth, suggesting a general increase in population aging and longevity across the countries included in the analysis.*
 
-- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.2.png?raw=true" width="900" />
 
 *Figure 2.2: Over the 2010–2022 period, both the percentage of the population aged 65+ and life expectancy at birth were consistently higher in OECD countries. Though both groups trended upward, the disparity with Non-OECD countries persisted*
 
-- 📊 **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
+- **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.3.png?raw=true" width="900" />
 
@@ -338,19 +338,19 @@ xx
 ---
 ## 3. OECD Focus: Pharmaceutical Spending
 
-- 📊 **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
+- **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.1.png?raw=true" width="900" />
 
 *Figure 3.1: ...*
 
-- 📊 **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
+- **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.2.png?raw=true" width="900" />
 
 *Figure 3.2: ...*
 
-- 📊 **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
+- **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
 
@@ -362,13 +362,13 @@ xx
 
 Understanding global disease burden patterns helps contextualize health spending priorities. This section examines DALYs trends across four major categories, highlighting temporal changes and regional disparities.
 
-- 📊 **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
+- **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png?raw=true" width="900" />
 
 *Figure 4.1: Stacked area chart showing the proportion of DALYs for CMNN, Injuries, NCDs, and COVID-related outcomes from 2010–2021, overlaid with trend lines to highlight temporal changes. CMNN burden decreases in high-income countries but remains high in LMICs; NCDs show a steady increase globally; Injuries remain relatively stable; COVID-related outcomes show a clear spike in 2020–2021.*
 
-- 🌍 **DALYs per 100,000 Population by Disease Category (Year 2021)**  
+- **DALYs per 100,000 Population by Disease Category (Year 2021)**  
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.2.png?raw=true" width="900" />
 
 *Figure 4.2: Regional disparities highlight how different categories dominate in various contexts. Africa shows high CMNN burden, high-income regions are dominated by NCDs, and injuries/COVID impact varies across regions.*
@@ -387,19 +387,19 @@ Understanding global disease burden patterns helps contextualize health spending
 
 After examining global disease burden and regional disparities, the next step is to see how countries respond through health spending. This section explores total health expenditure globally, trends over time by income group, and pharmaceutical spending in OECD countries, linking disease burden to financial investment.
 
-- 📉 **Global Regression: DALYs vs Health Expenditure per Capita (Year 2010–2021)**  
+- **Global Regression: DALYs vs Health Expenditure per Capita (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.1.png?raw=true" width="900" />
 
 *Figure 5.1: Scatter plot with regression lines showing the relationship between DALYs and health expenditure per capita across countries. Low-income countries experience high disease burden with limited spending, whereas high-income countries show lower DALYs with higher expenditure. Separate trend lines illustrate differences in responsiveness across income groups.*
 
-- 📈 **DALYs & Health Expenditure Trend per Income Group (Year 2010–2021)**  
+- **DALYs & Health Expenditure Trend per Income Group (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.2.png?raw=true" width="900" />
 
 *Figure 5.2: Trends of DALYs (left) and health expenditure per capita (right) from 2010–2021, shown as separate graphs by income group. The visualization highlights how disease burden and spending evolve differently over time across income levels, reflecting differences in effectiveness and resource allocation.*
 
-- 📊 **OECD: NCD DALYs vs Pharmaceutical Expenditure with Aging Impact (Year 2010–2021)**  
+- **OECD: NCD DALYs vs Pharmaceutical Expenditure with Aging Impact (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure5.3.png?raw=true" width="900" />
 
@@ -432,19 +432,19 @@ After examining global disease burden and regional disparities, the next step is
 
 xx
 
-- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.1.png?raw=true" width="900" />
 
 *Figure 2.1: From 2010 to 2022, the plot reveals a clear upward trend in both the percentage of the population aged 65 and above and life expectancy at birth, suggesting a general increase in population aging and longevity across the countries included in the analysis.*
 
-- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.2.png?raw=true" width="900" />
 
 *Figure 2.2: Over the 2010–2022 period, both the percentage of the population aged 65+ and life expectancy at birth were consistently higher in OECD countries. Though both groups trended upward, the disparity with Non-OECD countries persisted*
 
-- 📊 **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
+- **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.3.png?raw=true" width="900" />
 
@@ -453,19 +453,19 @@ xx
 ---
 ## 3. OECD Focus: Pharmaceutical Spending
 
-- 📊 **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
+- **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.1.png?raw=true" width="900" />
 
 *Figure 3.1: ...*
 
-- 📊 **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
+- **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.2.png?raw=true" width="900" />
 
 *Figure 3.2: ...*
 
-- 📊 **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
+- **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
 
@@ -477,7 +477,7 @@ xx
 
 Understanding global disease burden patterns helps contextualize health spending priorities. This section examines DALYs trends across four major categories, highlighting temporal changes and regional disparities.
 
-- 📊 **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
+- **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png?raw=true" width="900" />
 
