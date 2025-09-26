@@ -47,23 +47,23 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 *Figure 1.3: Variability within income groups is evident; some upper-middle-income countries outperform peers, while low-income countries show limited investment in health services.*
 
-- 📊 **1.4**
+- 📊 **Avg. Out-of-pocket Share of Health Expenditure, by Income Group (%)(2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.4.png?raw=true" width="900" />
 
-*Figure 1.4: ...*
+*Figure 1.4: the average out-of-pocket share of health expenditure decreases as the income level of countries increases. Low-income countries have the highest average out-of-pocket share, while high-income countries have the lowest.*
 
-- 📊 **1.5**
+- 📊 **Distribution of Out-of-pocket Share of Health Expenditure, by Income Group (%) (2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.5.png?raw=true" width="900" />
 
-*Figure 1.5: ...*
+*Figure 1.5: The box plot illustrates the distribution of out-of-pocket health expenditure as a percentage of total health expenditure across different income groups in 2022. It reveals that lower-income groups not only have higher average out-of-pocket percentages but also show a wider spread and more outliers with very high percentages, indicating greater variability and potentially more extreme financial burdens on individuals in these countries compared to higher-income groups.*
 
-- 📊 **1.6**
+- 📊 **Composition of Health Expenditure, by Income Group (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.6.png?raw=true" width="900" />
 
-*Figure 1.6: ...*
+*Figure 1.6: Lower-income groups' out-of-pocket expenditure consistently makes up a larger proportion of total health expenditure compared to higher-income groups. While there are some fluctuations, the general trend shows that out-of-pocket spending remained a significant component of health financing in lower-income countries from 2010 to 2022. In contrast, higher-income countries have a much smaller share of out-of-pocket expenditure relative to other forms of health financing.*
 
 ---
 **Key Insights**  
@@ -78,40 +78,40 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 xx
 
-- 📊 **2.1**
+- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.1.png?raw=true" width="900" />
 
-*Figure 2.1: ...*
+*Figure 2.1: From 2010 to 2022, the plot reveals a clear upward trend in both the percentage of the population aged 65 and above and life expectancy at birth, suggesting a general increase in population aging and longevity across the countries included in the analysis.*
 
-- 📊 **2.2**
+- 📊 **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.2.png?raw=true" width="900" />
 
-*Figure 2.2: ...*
+*Figure 2.2: Over the 2010–2022 period, both the percentage of the population aged 65+ and life expectancy at birth were consistently higher in OECD countries. Though both groups trended upward, the disparity with Non-OECD countries persisted*
 
-- 📊 **2.3**
+- 📊 **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.3.png?raw=true" width="900" />
 
-*Figure 2.3: ...*
+*Figure 2.3: The scatter plot shows a positive correlation between the percentage of the population aged 65+ and health expenditure per capita. OECD countries consistently exhibit both higher aging percentages and significantly greater health spending*
 
 ---
 ## 3. OECD Focus: Pharmaceutical Spending
 
-- 📊 **3.1**
+- 📊 **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.1.png?raw=true" width="900" />
 
 *Figure 3.1: ...*
 
-- 📊 **3.2**
+- 📊 **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.2.png?raw=true" width="900" />
 
 *Figure 3.2: ...*
 
-- 📊 **3.2**
+- 📊 **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
 
