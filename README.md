@@ -48,19 +48,19 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 *Figure 1.3: Variability within income groups is evident; some upper-middle-income countries outperform peers, while low-income countries show limited investment in health services.*
 
-- **Avg. Out-of-pocket Share of Health Expenditure, by Income Group (%)(2022)**
+- **Avg. Out-of-pocket Share of Health Expenditure, by Income Group (%) (Year 2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.4.png?raw=true" width="900" />
 
 *Figure 1.4: the average out-of-pocket share of health expenditure decreases as the income level of countries increases. Low-income countries have the highest average out-of-pocket share, while high-income countries have the lowest.*
 
-- **Distribution of Out-of-pocket Share of Health Expenditure, by Income Group (%) (2022)**
+- **Distribution of Out-of-pocket Share of Health Expenditure, by Income Group (%) (Year 2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.5.png?raw=true" width="900" />
 
 *Figure 1.5: The box plot illustrates the distribution of out-of-pocket health expenditure as a percentage of total health expenditure across different income groups in 2022. It reveals that lower-income groups not only have higher average out-of-pocket percentages but also show a wider spread and more outliers with very high percentages, indicating greater variability and potentially more extreme financial burdens on individuals in these countries compared to higher-income groups.*
 
-- **Composition of Health Expenditure, by Income Group (2010-2022)**
+- **Composition of Health Expenditure by Income Group (Year 2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure1.6.png?raw=true" width="900" />
 
@@ -78,21 +78,21 @@ Health investment is a key driver of health outcomes worldwide. This section hig
 
 ## 2. Aging Society & Life Expentancy
 
-xx To understand the link between population aging and health investment, in this section we will first analyze the temporal trends of global longevity and population aging. We will specifically compare OECD countries, which feature a higher percentage of older adults (aged 65+), against non-OECD nations. Subsequently, we will investigate how these aging societies affect health expenditure per capita.
+To understand the link between population aging and health investment, in this section we will first analyze the temporal trends of global longevity and population aging. We will specifically compare OECD countries, which feature a higher percentage of older adults (aged 65+), against non-OECD nations. Subsequently, we will investigate how these aging societies affect health expenditure per capita.
 
-- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022)**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth (Year 2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.1.png?raw=true" width="900" />
 
 *Figure 2.1: From 2010 to 2022, the plot reveals a clear upward trend in both the percentage of the population aged 65 and above and life expectancy at birth, suggesting a general increase in population aging and longevity across the countries included in the analysis.*
 
-- **Trend of % Population ages 65+ and Life Expectancy at Birth (2010-2022) OECD scope**
+- **Trend of % Population ages 65+ and Life Expectancy at Birth: OECD vs Non-OECD (Year 2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.2.png?raw=true" width="900" />
 
 *Figure 2.2: Both the percentage of the population aged 65+ and life expectancy at birth were consistently higher in OECD countries. Though both groups trended upward, the disparity with Non-OECD countries persisted*
 
-- **% Population ages 65+ vs Health Expenditure per Capita (2022): OECD vs Non-OECD with Regression Lines**
+- **Health Expenditure by % Population 65+ : OECD vs. Non-OECD (Year 2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure2.3.png?raw=true" width="900" />
 
@@ -109,19 +109,19 @@ xx To understand the link between population aging and health investment, in thi
 
 ## 3. OECD Focus: Pharmaceutical Spending
 
-- **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita (2010-2022)**
+- **Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022) by Country**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.1.png?raw=true" width="900" />
 
-*Figure 3.1: Pharmaceutical expenditure per capita rose along with the percentage of the population aged 65 and above, suggesting a potential relationship between these two trends.*
+*Figure 3.1: Approximately one-third of the countries shown allocate 20% or more of their total health spending to pharmaceuticals. Notably, the top-ranking countries—including Hungary, Poland, and Lithuania—dedicate over 45% of their total health expenditure to pharmaceutical costs*
 
-- **Top 20 Countries by Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022)**
+- **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita : OECD (2010-2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.2.png?raw=true" width="900" />
 
-*Figure 3.2: ...*
+*Figure 3.2: Pharmaceutical expenditure per capita rose along with the percentage of the population aged 65 and above, suggesting a potential relationship between these two trends.*
 
-- **Pharmaceutical Expenditure vs % Population ages 65+, by GDP per Capita (2022)**
+- **Pharmaceutical Expenditure by % Population 65+ and GDP (Year 2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
 
