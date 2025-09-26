@@ -16,8 +16,8 @@ This project analyzes global health and pharmaceutical spending (2010–2022) in
 
 ## Table of Contents:
 1. [Global Health Spending Landscape](#1-global-health-spending-landscape)
-2.
-3.
+2. [Aging Society & Life Expentancy]
+3. [OECD Focus: Pharmaceutical Spending]
 4. [Global Disease Burden Trends (GBD)](#4-global-disease-burden-trends-gbd)
 5. [Linking Disease Burden to Spending](#5-linking-disease-burden-to-spending)
 6. [Conclusion & Policy Implications](#6-conclusion--policy-implications)
