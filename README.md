@@ -115,7 +115,7 @@ Pharmaceutical expenditure is identified as a key cost driver in the health sect
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.1.png?raw=true" width="900" />
 
-*Figure 3.1: Approximately one-third of the countries shown allocate 20% or more of their total health spending to pharmaceuticals. Notably, the top-ranking countries—including Hungary, Poland, and Lithuania—dedicate over 45% of their total health expenditure to pharmaceutical costs*
+*Figure 3.1: Approximately one-third of the countries shown allocate 22% or more of their total health spending to pharmaceuticals. Notably, the top-ranking countries—including Hungary, Poland, and Lithuania—dedicate over 45% of their total health expenditure to pharmaceutical costs*
 
 - **Trend of % Population ages 65+ and Pharmaceutical Expenditure per Capita : OECD (2010-2022)**
 
@@ -127,9 +127,16 @@ Pharmaceutical expenditure is identified as a key cost driver in the health sect
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
 
-*Figure 3.3: From the plot, we can observe a general trend that as GDP per capita increases, pharmaceutical expenditure per capita also tends to increase. This is supported by the upward sloping regression line. Additionally, countries with a higher percentage of their population aged 65 and above tend to have higher pharmaceutical expenditure per capita, as indicated by the larger bubbles generally appearing higher on the plot, especially among higher GDP countries. However, there are several prominent outliers such as USA: Has a very high GDP and the highest pharmaceutical expenditure per capita, exceeding the trend line significantly. >>highest R&D in OECD 57% of OECD https://www.oecd.org/en/publications/2021/11/health-at-a-glance-2021_cc38aa56/full-report/component-83.html#figure-d1e14193.<<
-Japan: While having the highest aging population percentage, its pharmaceutical expenditure is high but not as exceptionally high as the USA's, especially considering its aging demographic. >>highest pharmacist but pharmaceutical expenditure is not that high <<
-Luxembourg: Has a very high GDP but relatively lower pharmaceutical expenditure compared to other countries with similar or even lower GDPs. 
+
+*Figure 3.3: From the plot, we can observe a general trend that as GDP per capita increases, pharmaceutical expenditure per capita also tends to increase. This is supported by the upward sloping regression line. Additionally, countries with a higher percentage of their population aged 65 and above tend to have higher pharmaceutical expenditure per capita, as indicated by the larger bubbles generally appearing higher on the plot, especially among higher GDP countries. However, several prominent outliers challenge this straightforward relationship:*
+- The USA shows exceptionally high pharmaceutical expenditure per capita, significantly exceeding the trend line, despite having only an average percentage of the population aged 65+.
+- Japan, while possessing the highest aging population percentage on the chart, has high pharmaceutical expenditure but not to the extreme level seen in the USA.
+- Luxembourg has a very high GDP but reports comparatively lower pharmaceutical spending than many countries with lower GDPs.
+According to the OECD [see reference below] These exceptions suggest that factors beyond simple demographics and economic status are key determinants of a country's pharmaceutical spending, likely including variables such as national healthcare policies, R&D investment, and pharmacist density.
+
+OECD references : Health at Glance 2021
+- Pharmacist Density (https://www.oecd.org/en/publications/2021/11/health-at-a-glance-2021_cc38aa56/full-report/component-80.html#indicator-d1e13699)
+- Pharmaceutical research and development (https://www.oecd.org/en/publications/2021/11/health-at-a-glance-2021_cc38aa56/full-report/component-83.html#figure-d1e14193)
 
 **Key Insights**  
 1. Significant Proportion of Health Spending: Pharmaceutical expenditure constitutes a significant proportion of total health spending.
