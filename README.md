@@ -99,11 +99,11 @@ To understand the link between population aging and health investment, in this s
 *Figure 2.3: The scatter plot shows a positive correlation between the percentage of the population aged 65+ and health expenditure per capita. OECD countries consistently exhibit both higher aging percentages and significantly greater health spending*
 
 **Key Insights**  
-1.   
-2.   
-3. 
+1. Global Aging: The world is experiencing a significant rise in its aging population, with the percentage of people aged 65 and above steadily increasing.
+2. OECD/Non-OECD Gap: There is a clear difference between OECD and Non-OECD countries, with OECD nations having a higher proportion of older adults.
+3. Aging and Health Expenditure: The increase in the aging population is correlated with higher health expenditure.
 
-> "...”
+> "These trends of a rising global aging society, particularly prominent in OECD nations, and its correlation with increased health expenditure highlight the evolving landscape of healthcare. Within this context, pharmaceutical expense constitutes a significant portion of total health expenditure. Understanding this significant component is crucial for gaining deeper insights into overall health expenditure patterns, especially as we focus on OECD countries where the aging society is more pronounced”
 
 ---
 
