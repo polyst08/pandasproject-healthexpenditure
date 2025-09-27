@@ -109,6 +109,8 @@ To understand the link between population aging and health investment, in this s
 
 ## 3. OECD Focus: Pharmaceutical Spending
 
+Pharmaceutical expenditure is identified as a key cost driver in the health sector. In OECD nations, pharmaceuticals account for a significant proportion of total health spending, and this expenditure tends to grow in correlation with the percentage of the population aged 65 and over. However, the data also reveals several outliers, where certain countries exhibit unusually high pharmaceutical spending relative to their demographic structure.
+
 - **Accumulated Pharmaceutical Expenditure as % of Total Health Expenditure (2010-2022) by Country**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.1.png?raw=true" width="900" />
@@ -126,6 +128,14 @@ To understand the link between population aging and health investment, in this s
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
 
 *Figure 3.3: The bubble chart shows a positive correlation: countries with a higher percentage of older adults and higher GDP per capita tend to have higher pharmaceutical expenditure per person. However, Japan has the highest percentage of its population aged 65 and above, but its pharmaceutical expenditure is not as high as some countries with younger populations. Furthermore, the USA shows a relatively high pharmaceutical expenditure per capita compared to many other countries, including some with older populations, suggesting that factors beyond just aging demographics likely contribute to its spending levels*
+
+**Key Insights**  
+1. Significant Proportion of Health Spending: Pharmaceutical expenditure constitutes a significant proportion of total health spending.
+2. OECD Trends: In OECD countries, pharmaceutical spending per capita is increasing, which correlates with the rise in the aging population.
+3. Aging, Wealth, and Spending: Countries with both a higher percentage of older adults and higher GDP per capita tend to have higher pharmaceutical expenditure per person.
+4. Notable Outliers: 
+
+> "xxx”
 
 ---
 ## 4. Global Disease Burden Trends (GBD)
