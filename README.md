@@ -3,7 +3,7 @@
 **DADS5001:** Presented by Sumonsiri (6720422007) and Parita (6720422012)
 
 **Purpose:**  
-This project analyzes global health and pharmaceutical spending (Year 2010–2022) in the context of aging populations, disease burden (Disability-Adjusted Life Years: DALYs), and health outcomes (Life Expectancy). The goal is to identify trends and inform evidence-based policy insights.
+This presentation analyzes global health and pharmaceutical spending across different income groups in the context of aging populations, disease burden (Disability-Adjusted Life Years: DALYs), and health outcomes (Life Expectancy). The goal is to identify trends and inform evidence-based policy insights.
 
 ---
 
