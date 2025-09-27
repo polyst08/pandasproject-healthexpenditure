@@ -132,11 +132,8 @@ Pharmaceutical expenditure is identified as a key cost driver in the health sect
 - The USA shows exceptionally high pharmaceutical expenditure per capita, significantly exceeding the trend line, despite having only an average percentage of the population aged 65+.
 - Japan, while possessing the highest aging population percentage on the chart, has high pharmaceutical expenditure but not to the extreme level seen in the USA.
 - Luxembourg has a very high GDP but reports comparatively lower pharmaceutical spending than many countries with lower GDPs.
-According to the OECD [see reference below] These exceptions suggest that factors beyond simple demographics and economic status are key determinants of a country's pharmaceutical spending, likely including variables such as national healthcare policies, R&D investment, and pharmacist density.
 
-OECD references : Health at Glance 2021
-- Pharmacist Density (https://www.oecd.org/en/publications/2021/11/health-at-a-glance-2021_cc38aa56/full-report/component-80.html#indicator-d1e13699)
-- Pharmaceutical research and development (https://www.oecd.org/en/publications/2021/11/health-at-a-glance-2021_cc38aa56/full-report/component-83.html#figure-d1e14193)
+According to the OECD [see references below], these exceptions suggest that factors beyond simple demographics and economic status are key determinants of a country's pharmaceutical spending, likely including variables such as national healthcare policies, R&D investment, and pharmacist density.
 
 **Key Insights**  
 1. Significant Proportion of Health Spending: Pharmaceutical expenditure constitutes a significant proportion of total health spending.
@@ -144,8 +141,12 @@ OECD references : Health at Glance 2021
 3. Aging, Wealth, and Spending: Countries with both a higher percentage of older adults and higher GDP per capita tend to have higher pharmaceutical expenditure per person.
 4. Notable Outliers: 
 
-> "Within OECD countries between 2010 and 2022, a clear trend exists where pharmaceutical expenditure per capita rises along with the percentage of the population aged 65 and above. Although pharmaceutical spending is a significant component of total health expenditure, according to the OECD, the primary driver of growth is not retail pharmaceuticals, but rather hospital pharmaceuticals [OECD Data Source]. Consequently, population aging alone may not be the key determinant; instead, variables like disease prevalence, national healthcare policies, and the availability of advanced, costly drugs likely contribute substantially to a country's spending.”
+> "Within OECD countries between 2010 and 2022, a clear trend exists where pharmaceutical expenditure per capita rises along with the percentage of the population aged 65 and above. Although pharmaceutical spending is a significant component of total health expenditure, the primary driver of growth is not retail pharmaceuticals, but rather hospital pharmaceuticals [OECD Data Source]. Consequently, population aging alone may not be the key determinant; instead, variables like disease prevalence, national healthcare policies, and the availability of advanced, costly drugs likely contribute substantially to a country's spending.”
 
+OECD references : Health at Glance 2021
+- Pharmacist Density (https://www.oecd.org/en/publications/2021/11/health-at-a-glance-2021_cc38aa56/full-report/component-80.html#indicator-d1e13699)
+- Pharmaceutical research and development (https://www.oecd.org/en/publications/2021/11/health-at-a-glance-2021_cc38aa56/full-report/component-83.html#figure-d1e14193)
+- Pharmaceutical expenditure (https://www.oecd.org/en/publications/2021/11/health-at-a-glance-2021_cc38aa56/full-report/component-80.html#indicator-d1e13699)
 ---
 ## 4. Global Disease Burden Trends (GBD)
 
