@@ -132,7 +132,7 @@ To understand the link between population aging and health investment, in this s
 
 Understanding global disease burden patterns helps contextualize health spending priorities. This section examines DALYs trends across four major categories, highlighting temporal changes and regional disparities.
 
-- **% of DALYs by Disease Category in each Income Group (Year 2010–2021)**  
+- **% of Disability-Adjusted Life Years (DALYs) by Disease Category in each Income Group (Year 2010–2021)**  
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png?raw=true" width="900" />
 
