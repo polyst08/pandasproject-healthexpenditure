@@ -136,7 +136,7 @@ Understanding global disease burden patterns helps contextualize health spending
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.1.png?raw=true" width="900" />
 
-*Figure 4.1: Stacked area chart showing the proportion of DALYs for CMNN, Injuries, NCDs, and COVID-related outcomes from 2010–2021, overlaid with trend lines to highlight temporal changes. CMNN burden decreases in high-income countries but remains high in LMICs; NCDs show a steady increase globally; Injuries remain relatively stable; COVID-related outcomes show a clear spike in 2020–2021.*
+*Figure 4.1: Stacked area chart showing the proportion of DALYs for Communicable, maternal, neonatal, and nutritional diseases (CMNN), Injuries, Non-communicable diseases (NCDs), and Other COVID-19 pandemic-related outcomes from 2010–2021, overlaid with trend lines to highlight temporal changes. CMNN burden decreases in high-income countries but remains high in LMICs; NCDs show a steady increase globally; Injuries remain relatively stable; COVID-related outcomes show a clear spike in 2020–2021.*
 
 - **DALYs per 100,000 Population by Disease Category (Year 2021)**  
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure4.2.png?raw=true" width="900" />
