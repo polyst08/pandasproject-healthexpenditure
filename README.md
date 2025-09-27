@@ -123,11 +123,13 @@ Pharmaceutical expenditure is identified as a key cost driver in the health sect
 
 *Figure 3.2: Pharmaceutical expenditure per capita rose along with the percentage of the population aged 65 and above, suggesting a potential relationship between these two trends.*
 
-- **Pharmaceutical Expenditure by % Population 65+ and GDP (Year 2022)**
+- **Pharmaceutical Expenditure by GDP and % Population 65+ (Year 2022)**
 
 <img src="https://github.com/polyst08/pandasproject-healthexpenditure/blob/main/Figure-Section01-04-05/Figure3.3.png?raw=true" width="900" />
 
-*Figure 3.3: The bubble chart shows a positive correlation: countries with a higher percentage of older adults and higher GDP per capita tend to have higher pharmaceutical expenditure per person. However, Japan has the highest percentage of its population aged 65 and above, but its pharmaceutical expenditure is not as high as some countries with younger populations. Furthermore, the USA shows a relatively high pharmaceutical expenditure per capita compared to many other countries, including some with older populations, suggesting that factors beyond just aging demographics likely contribute to its spending levels*
+*Figure 3.3: From the plot, we can observe a general trend that as GDP per capita increases, pharmaceutical expenditure per capita also tends to increase. This is supported by the upward sloping regression line. Additionally, countries with a higher percentage of their population aged 65 and above tend to have higher pharmaceutical expenditure per capita, as indicated by the larger bubbles generally appearing higher on the plot, especially among higher GDP countries. However, there are several prominent outliers such as USA: Has a very high GDP and the highest pharmaceutical expenditure per capita, exceeding the trend line significantly. >>highest R&D in OECD 57% of OECD https://www.oecd.org/en/publications/2021/11/health-at-a-glance-2021_cc38aa56/full-report/component-83.html#figure-d1e14193.<<
+Japan: While having the highest aging population percentage, its pharmaceutical expenditure is high but not as exceptionally high as the USA's, especially considering its aging demographic. >>highest pharmacist but pharmaceutical expenditure is not that high <<
+Luxembourg: Has a very high GDP but relatively lower pharmaceutical expenditure compared to other countries with similar or even lower GDPs. 
 
 **Key Insights**  
 1. Significant Proportion of Health Spending: Pharmaceutical expenditure constitutes a significant proportion of total health spending.
@@ -135,7 +137,7 @@ Pharmaceutical expenditure is identified as a key cost driver in the health sect
 3. Aging, Wealth, and Spending: Countries with both a higher percentage of older adults and higher GDP per capita tend to have higher pharmaceutical expenditure per person.
 4. Notable Outliers: 
 
-> "xxx”
+> "Within OECD countries between 2010 and 2022, a clear trend exists where pharmaceutical expenditure per capita rises along with the percentage of the population aged 65 and above. Although pharmaceutical spending is a significant component of total health expenditure, according to the OECD, the primary driver of growth is not retail pharmaceuticals, but rather hospital pharmaceuticals [OECD Data Source]. Consequently, population aging alone may not be the key determinant; instead, variables like disease prevalence, national healthcare policies, and the availability of advanced, costly drugs likely contribute substantially to a country's spending.”
 
 ---
 ## 4. Global Disease Burden Trends (GBD)
