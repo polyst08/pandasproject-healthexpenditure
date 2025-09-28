@@ -139,7 +139,7 @@ According to the OECD [see references below], these exceptions suggest that fact
 1. Significant Proportion of Health Spending: Pharmaceutical expenditure constitutes a significant proportion of total health spending.
 2. OECD Trends: In OECD countries, pharmaceutical spending per capita is increasing, which correlates with the rise in the aging population.
 3. Aging, Wealth, and Spending: Countries with both a higher percentage of older adults and higher GDP per capita tend to have higher pharmaceutical expenditure per person.
-4. Notable Outliers: 
+4. Notable Outliers: Population aging and GDP per capita alone aren't sufficient to determine a country's health and pharmaceutical spending. Instead, factors such as disease prevalence, national healthcare policies, and the availability of advanced drugs likely contribute far more to expenditure.
 
 > "Within OECD countries between 2010 and 2022, a clear trend exists where pharmaceutical expenditure per capita rises along with the percentage of the population aged 65 and above. Although pharmaceutical spending is a significant component of total health expenditure, the primary driver of growth is not retail pharmaceuticals, but rather hospital pharmaceuticals [OECD Data Source]. Consequently, population aging alone may not be the key determinant; instead, variables like disease prevalence, national healthcare policies, and the availability of advanced, costly drugs likely contribute substantially to a country's spending.”
 
