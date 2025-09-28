@@ -220,7 +220,6 @@ After examining global disease burden and regional disparities, the next step is
 - Global perspective: Allocate resources based on disease burden composition and demographic context to maximize impact and efficiency.
 
 ---
-
-**Reference**
+## Reference
 
 Disability-Adjusted Life Years (DALYs) definition: https://www.sciencedirect.com/science/article/abs/pii/B9780123756787005113
