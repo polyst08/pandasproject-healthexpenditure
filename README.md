@@ -9,7 +9,7 @@ This presentation analyzes global health and pharmaceutical spending across diff
 
 ## Data Sources:
 1. World Bank Data: https://databank.worldbank.org/reports.aspx?source=2&country=WLD#
-2. OECD Data: https://www.oecd.org/en/data/datasets.html?orderBy=mostRelevant&page=0&q=drug
+2. The Organisation for Economic Co-operation and Development (OECD) Data: https://www.oecd.org/en/data/datasets.html?orderBy=mostRelevant&page=0&q=drug
 3. Institute For Health Metrics and Evaluation (IHME) : https://vizhub.healthdata.org/gbd-results/
 
 ---
