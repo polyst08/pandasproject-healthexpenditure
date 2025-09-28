@@ -221,5 +221,6 @@ After examining global disease burden and regional disparities, the next step is
 
 ---
 
-**Reference:**
+**Reference**
+
 Disability-Adjusted Life Years (DALYs) definition: https://www.sciencedirect.com/science/article/abs/pii/B9780123756787005113
