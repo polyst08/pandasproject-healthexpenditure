@@ -222,5 +222,6 @@ After examining global disease burden and regional disparities, the next step is
 ---
 ## Reference:
 
-Disability-Adjusted Life Years (DALYs) definition:
+- Country classifications by income level: https://blogs.worldbank.org/en/opendata/world-bank-country-classifications-by-income-level-for-2024-2025
+- Disability-Adjusted Life Years (DALYs) definition:
 https://www.sciencedirect.com/science/article/abs/pii/B9780123756787005113
