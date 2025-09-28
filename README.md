@@ -150,7 +150,7 @@ OECD references : Health at Glance 2021
 ---
 ## 4. Global Disease Burden Trends (GBD)
 
-Understanding global disease burden patterns helps contextualize health spending priorities. This section examines DALYs trends across four major categories, highlighting temporal changes and regional disparities.
+Understanding global disease burden patterns helps contextualize health spending priorities. This section examines Disability-Adjusted Life Years (DALYs) trends across four major categories, highlighting temporal changes and regional disparities.
 
 - **% of Disability-Adjusted Life Years (DALYs) by Disease Category in each Income Group (Year 2010–2021)**  
 
