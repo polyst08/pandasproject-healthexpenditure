@@ -218,3 +218,8 @@ After examining global disease burden and regional disparities, the next step is
 - Low- and middle-income countries: Target investment to reduce high disease burden efficiently.  
 - OECD/high-income countries: Manage aging-related pressures and rising pharmaceutical costs with sustainable policies (e.g., drug pricing, reimbursement strategies).  
 - Global perspective: Allocate resources based on disease burden composition and demographic context to maximize impact and efficiency.
+
+---
+
+**Reference:**
+Disability-Adjusted Life Years (DALYs) definition: https://www.sciencedirect.com/science/article/abs/pii/B9780123756787005113
